@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ULTRALOTTOGENERATOR", "ULTRALOTTOGENERATOR\ULTRALOTTOGENERATOR.csproj", "{1356E808-DD39-490D-B778-C45E6A1D3FB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SELECTMANY", "SELECTMANY\SELECTMANY.csproj", "{904CF5CC-6F11-41C4-AA82-F86615BAC02F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1356E808-DD39-490D-B778-C45E6A1D3FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1356E808-DD39-490D-B778-C45E6A1D3FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1356E808-DD39-490D-B778-C45E6A1D3FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904CF5CC-6F11-41C4-AA82-F86615BAC02F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904CF5CC-6F11-41C4-AA82-F86615BAC02F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904CF5CC-6F11-41C4-AA82-F86615BAC02F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904CF5CC-6F11-41C4-AA82-F86615BAC02F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
